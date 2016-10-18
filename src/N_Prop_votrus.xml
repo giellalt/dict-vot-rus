@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="votrus" xml:lang="vot">
+<e>
+   <lg>
+     <l pos="N">Inkerimaa</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="N">Ингерманландия</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Jaama</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="N">Кингисепп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Jõgõperä</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="N">Краколье</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Kaunishatukkõin</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="N">Красная Шапочка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Petteri</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="N">Санкт-Петербург</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Viro</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="N">эстония</t>
+     </tg>
+   </mg>
+</e>
+</r>

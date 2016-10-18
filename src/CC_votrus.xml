@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="votrus" xml:lang="vot">
+<e>
+   <lg>
+     <l pos="CC">a</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="CC">но</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">i</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="CC">и</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">vai</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="CC">или</t>
+     </tg>
+   </mg>
+</e>
+</r>

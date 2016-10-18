@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="votrus" xml:lang="vot">
+<e>
+   <lg>
+     <l pos="Pron">čed</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">кто (мн.ч.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">čelle</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">кому</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">čenni</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">никто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ize</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">сам</t>
+       <t pos="Pron">сама</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jõkain</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">каждый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kane</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">те</t>
+       <t pos="Pron">эти</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kase</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">эта</t>
+       <t pos="Pron">это</t>
+       <t pos="Pron">этот</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kõikk</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">всё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">meije</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">наш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">что</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mittä</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">ничего</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mitä</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">чего</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mitänibut̕</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">что-то</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">miä</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">я</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mokomõin</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">такой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">müü</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">мы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mõlõpõd</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">оба</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämäd</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">они</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">тот-же</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">see</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">этот</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">siä</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">ты</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">teije</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">ваш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tüü</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">вы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">он</t>
+       <t pos="Pron">она</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">õma</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Pron">свой</t>
+     </tg>
+   </mg>
+</e>
+</r>

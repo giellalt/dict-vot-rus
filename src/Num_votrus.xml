@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="votrus" xml:lang="vot">
+<e>
+   <lg>
+     <l pos="Num">čümme</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">десять</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">kahsčümmed</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">двадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">kahs</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">два</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">kahõsa</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">восемь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">kuusi</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">шесть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">kõlmõd</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">три</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">nelle</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">четыре</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">sata</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">сто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">seitse</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">семь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">tuhattõ</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">тысяча</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">viisi</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">пять</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">ühsteiššümed</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">одиннадцать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">ühz</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Num">один</t>
+     </tg>
+   </mg>
+</e>
+</r>

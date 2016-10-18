@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="votrus" xml:lang="vot">
+<e>
+   <lg>
+     <l pos="Interj">jäämme üvässi</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj">до свидания</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kops!</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj">гоп!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">passibad</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj">спасибо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tere</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Interj">здравствуй</t>
+       <t pos="Interj">здравствуйте</t>
+     </tg>
+   </mg>
+</e>
+</r>
